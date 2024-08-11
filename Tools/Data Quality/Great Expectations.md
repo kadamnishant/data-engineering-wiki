@@ -13,6 +13,8 @@ help data engineering teams clean up their pipelines and increase their confiden
 Great Expectations calls each unit test segment an "Expectation", due to expecting the output of a test to be a certain value. Rather than other testing and evaluation suites, Great Expectations encourage testing
 at batch time (when new data arrives). This is in contrast to compile or deploy times. By testing at batch time, teams can be confident that there is a safety net should code behave unexpectedly for new data, and pinpoint the root cause as soon as possible.
 
+Tutorial: https://cognitiveclass.ai/courses/great-expectations-a-data-validation-library-for-python
+
 # Workflow
 1) Introduce the expectation early into the process, perhaps even before you've built a pipeline.
 2) Show it to the stakeholder and have them validate the assumptions.
